@@ -1,0 +1,51 @@
+
+{
+    "workbench.colorTheme": "Material Theme Ocean",
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "'Operator Mono', 'Fira Code', 'Fira Mono', monospace",
+    "editor.fontSize": 14,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.tabSize": 2,
+    "editor.renderIndentGuides": false,
+    "explorer.openEditors.visible": 0,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "liveSassCompile.settings.generateMap": false,
+    "liveSassCompile.settings.showOutputWindow": false,
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "/public/"
+        }
+    ],
+    "editor.minimap.enabled": false,
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "comment",
+                "settings": {
+                    "fontStyle": "normal"
+                }
+            }
+        ]
+        },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "window.menuBarVisibility": "toggle",
+    "window.titleBarStyle": "custom",
+    "window.zoomLevel": 0,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "processing.path": "C:\\Program Files (x86)\\processing-3.3.6\\processing-java\\",
+    "explorer.confirmDelete": false,
+    "eslint.packageManager": "yarn",
+    "files.eol": "\n",
+    "explorer.confirmDragAndDrop": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.fontFamily": "'Operator Mono', 'Fira Code', 'Fira Mono', monospace",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.statusBar.feedback.visible": false,
+    "breadcrumbs.enabled": true,
+    "material-icon-theme.saturation": 1,
+    "workbench.sideBar.location": "left",
+}
